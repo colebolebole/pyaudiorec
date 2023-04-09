@@ -6,7 +6,7 @@ prerequisites
 
 install the following using pip:
 
-pip install tkinter (if that doesn't work, try "pip install python-tk"
+pip install tkinter (if that doesn't work, try importing "import tkinter as tk"
 
 pip install pyaudio 
 
