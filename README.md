@@ -13,3 +13,8 @@ pip install tkinter
 pip install pyaudio 
 
 pip install wave
+
+---
+to install, either git clone this repo "git clone https://github.com/colebolebole/pyaudiorec.git"
+
+and/or install the desktop app https://github.com/colebolebole/pyaudiorec/releases/download/pyaudiorec/pyaudiorec.zip
