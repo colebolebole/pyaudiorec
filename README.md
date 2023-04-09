@@ -3,8 +3,13 @@ PyAudioRec (Python Audio Recorder) is a open source, simple audio recorder coded
 
 ---
 prerequisites
+
 install the following using pip:
 
+---
+
 pip install tkinter
+
 pip install pyaudio 
+
 pip install wave
