@@ -6,8 +6,6 @@ prerequisites
 
 install the following using pip:
 
----
-
 pip install tkinter
 
 pip install pyaudio 
